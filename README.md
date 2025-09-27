@@ -7,6 +7,8 @@ Bybit Card is a revolutionary Mastercard crypto debit card developed by Bybit, t
 
 The Bybit Card supports multiple major cryptocurrencies including Bitcoin (BTC), Ethereum (ETH), XRP, USDT, USDC, Toncoin (TON), Mantle (MNT), and Binance Coin (BNB), making it one of the most versatile crypto debit cards available in the market. Users can spend their crypto at over 90 million merchants worldwide wherever Mastercard is accepted, essentially turning their digital assets into spendable currency for daily purchases.
 
+<img width="2984" height="1459" alt="image" src="https://github.com/user-attachments/assets/e2344f95-9c2a-4455-ba7e-26b8f721e858" />
+
 The card is available in both virtual and physical formats, with the virtual version being instantly available upon approval and the physical card taking up to 30 business days for delivery. Currently, the Bybit Card is available to residents of the European Economic Area (EEA), Switzerland, Australia, Argentina, Brazil, and AIFC countries, with ongoing expansion to additional markets.
 
 Key features include up to 10% cashback rewards, EMV 3D Secure technology for enhanced security, compatibility with digital wallets like Apple Pay, Google Pay, and Samsung Pay, and integration with Bybit's VIP program for additional perks and benefits.
